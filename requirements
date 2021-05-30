@@ -1,6 +1,0 @@
-python==3.9.1
-
-To Install other libraries
-
-pip install requests
-pip install pygame
